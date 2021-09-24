@@ -1,4 +1,4 @@
-# calcularAnguloscap3
+# calcularAnguloscap3.cpp
 
 #include<iostream>
 #include<cmath>
